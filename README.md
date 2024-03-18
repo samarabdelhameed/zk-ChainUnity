@@ -5,11 +5,14 @@ Welcome to zkChainUnity, a robust cross-chain governance management platform bui
 ## Project Overview
 
 zkChainUnity addresses the challenges associated with dispersed governance across various blockchain networks. In many decentralized autonomous organizations (DAOs), token holders are often siloed, leading to uneven voting power distribution. Our platform introduces a cross-chain governance structure that aggregates voting power irrespective of token ownership. By integrating Ethereum and zkEVM, zkChainUnity enables seamless, democratic participation and governance that accurately reflects the perspectives of all token holders.
+- [github link](https://github.com/samarabdelhameed/zk-ChainUnity)
 - ![flow chart](https://github.com/samarabdelhameed/pics/blob/main/BmbgDjl7vS.png)
-- ![flow chart](https://github.com/samar19/pic-/blob/master/Screen%20Shot%202023-12-13%20at%2010.58.21%20AM.png)
+- ![flow chart](https://github.com/samarabdelhameed/pics/blob/main/Screen%20Shot%202024-03-18%20at%201.24.58%20PM.png)
  - [Figma link](https://www.figma.com/file/m2KyreOutNgftJC7zM0b7y/Untitled?type=design&node-id=0%3A1&mode=design&t=EKhB2uQ6EKnjAI9R-1)
  - [yotube link](https://www.youtube.com/watch?v=65Z969TesnQ)
- - [github link](https://github.com/samar19/zkChainUnity)
+  - [Constellation: A Chainlink Hackathon won Polygon - LxLy Bridge zkEVM Extension](https://devpost.com/software/zkchainunity)
+
+ 
 
 ## Problem Statement
 
